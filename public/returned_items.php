@@ -67,4 +67,4 @@ include __DIR__ . '/../views/partials/header.php';
     </table>
 </div>
 
-<?php include __DIR__ . '/../views/partials/footer.php'; ?>
+
